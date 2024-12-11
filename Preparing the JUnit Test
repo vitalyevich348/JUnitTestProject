@@ -1,0 +1,14 @@
+JUnitTestProject/
+    ├── pom.xml
+    ├── src/
+    │   ├── main/
+    │   │   └── java/
+    │   │       └── com/
+    │   │           └── example/
+    │   │               └── Calculator.java
+    │   └── test/
+    │       └── java/
+    │           └── com/
+    │               └── example/
+    │                   └── CalculatorTest.java
+    └── README.md
